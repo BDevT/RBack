@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "name": "S1",
+        "physical_location": "Room A",
+        "virtual_location_x": 0.2,
+        "virtual_location_y": 0.4,
+        "length": 50.0,
+        "width": 100.0
+    },
+    {
+        "id": 2,
+        "name": "S2",
+        "physical_location": "Room A",
+        "virtual_location_x": 0.2,
+        "virtual_location_y": 0.5,
+        "length": 50.0,
+        "width": 100.0
+    },
+    {
+        "id": 3,
+        "name": "S3",
+        "physical_location": "Room B",
+        "virtual_location_x": 0.33,
+        "virtual_location_y": 0.43,
+        "length": 100.0,
+        "width": 50.0
+    },
+    {
+        "id": 4,
+        "name": "S4",
+        "physical_location": "Room B",
+        "virtual_location_x": 0.43,
+        "virtual_location_y": 0.43,
+        "length": 100.0,
+        "width": 50.0
+    },
+    {
+        "id": 5,
+        "name": "S5",
+        "physical_location": "Room B",
+        "virtual_location_x": 0.36,
+        "virtual_location_y": 0.55,
+        "length": 50.0,
+        "width": 100.0
+    },
+    {
+        "id": 6,
+        "name": "S6",
+        "physical_location": "Room C",
+        "virtual_location_x": 0.7,
+        "virtual_location_y": 0.3,
+        "length": 50.0,
+        "width": 100.0
+    },
+    {
+        "id": 7,
+        "name": "S7",
+        "physical_location": "Room C",
+        "virtual_location_x": 0.85,
+        "virtual_location_y": 0.3,
+        "length": 50.0,
+        "width": 100.0
+    },
+    {
+        "id": 8,
+        "name": "S8",
+        "physical_location": "Room C",
+        "virtual_location_x": 0.7,
+        "virtual_location_y": 0.38,
+        "length": 50.0,
+        "width": 100.0
+    },
+    {
+        "id": 9,
+        "name": "S9",
+        "physical_location": "Room C",
+        "virtual_location_x": 0.85,
+        "virtual_location_y": 0.38,
+        "length": 50.0,
+        "width": 100.0
+    },
+    {
+        "id": 10,
+        "name": "S10",
+        "physical_location": "Room D",
+        "virtual_location_x": 0.67,
+        "virtual_location_y": 0.53,
+        "length": 100.0,
+        "width": 50.0
+    },
+    {
+        "id": 11,
+        "name": "S11",
+        "physical_location": "Room D",
+        "virtual_location_x": 0.77,
+        "virtual_location_y": 0.53,
+        "length": 100.0,
+        "width": 50.0
+    },
+    {
+        "id": 12,
+        "name": "S12",
+        "physical_location": "Room D",
+        "virtual_location_x": 0.87,
+        "virtual_location_y": 0.53,
+        "length": 100.0,
+        "width": 50.0
+    },
+    {
+        "id": 13,
+        "name": "S13",
+        "physical_location": "Room D",
+        "virtual_location_x": 0.67,
+        "virtual_location_y": 0.71,
+        "length": 100.0,
+        "width": 50.0
+    },
+    {
+        "id": 14,
+        "name": "S14",
+        "physical_location": "Room D",
+        "virtual_location_x": 0.77,
+        "virtual_location_y": 0.71,
+        "length": 100.0,
+        "width": 50.0
+    },
+    {
+        "id": 15,
+        "name": "S15",
+        "physical_location": "Room D",
+        "virtual_location_x": 0.87,
+        "virtual_location_y": 0.71,
+        "length": 100.0,
+        "width": 50.0
+    },
+    {
+        "id": 16,
+        "name": "S16",
+        "physical_location": "Room D",
+        "virtual_location_x": 0.67,
+        "virtual_location_y": 0.89,
+        "length": 100.0,
+        "width": 50.0
+    },
+    {
+        "id": 17,
+        "name": "S17",
+        "physical_location": "Room D",
+        "virtual_location_x": 0.77,
+        "virtual_location_y": 0.89,
+        "length": 100.0,
+        "width": 50.0
+    },
+    {
+        "id": 18,
+        "name": "S18",
+        "physical_location": "Room D",
+        "virtual_location_x": 0.87,
+        "virtual_location_y": 0.89,
+        "length": 100.0,
+        "width": 50.0
+    }
+]
